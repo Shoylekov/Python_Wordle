@@ -18,11 +18,7 @@ This project is a Python implementation of the popular word puzzle game, Wordle.
 To play the game, follow these steps:
 
 Clone the repository to your local machine.
-
 Install the necessary dependencies.
-
 Run the play_wordle.py script:
-
 python play_wordle.py
-
 Start guessing and enjoy the game!
