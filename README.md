@@ -15,6 +15,6 @@ To play the game, follow these steps:
 - Clone the repository to your local machine.
 - Install the necessary dependencies.
 - Run the play_wordle.py script:
-- python play_wordle.py
+  - python play_wordle.py
 - Start guessing and enjoy the game!
 ![wordle](https://github.com/user-attachments/assets/9c35e701-bf31-4e7e-b345-1155a26c1870)
